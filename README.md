@@ -1,1 +1,1 @@
-# STM32-TinyML-Motor-Anoma-y-Detection
+# STM32-TinyML-Motor-Anomaly-Detection
